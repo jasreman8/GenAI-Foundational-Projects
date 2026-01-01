@@ -10,3 +10,6 @@ This repo contains all the GenAI foundational projects.
 - Demonstrates market spend projections using OpenAI and Ollama examples
 - Performs cost modeling for LLM application development
 - Includes token consumption analysis for grocery app customer support automation
+**Notebook 4:** Introduction notebook on tuning LLM sampling parameters and implementing reasoning-focused prompts
+- API parameters—temperature, top_p, n (number of completions), frequency_penalty, and presence_penalty
+- Core prompt engineering patterns: few-shot prompting, chain-of-thought reasoning, rephrase-and-respond, self-consistency, tree-of-thought prompting, and LLM-as-a-judge evaluation
