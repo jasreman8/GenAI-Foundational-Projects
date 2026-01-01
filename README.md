@@ -14,3 +14,11 @@ This repo contains all the GenAI foundational projects.
 **Notebook 4:** Introduction notebook on tuning LLM sampling parameters and implementing reasoning-focused prompts
 - API parameters—temperature, top_p, n (number of completions), frequency_penalty, and presence_penalty
 - Core prompt engineering patterns: few-shot prompting, chain-of-thought reasoning, rephrase-and-respond, self-consistency, tree-of-thought prompting, and LLM-as-a-judge evaluation
+
+**Notebook 5:** This notebook demonstrates how to automate customer support for a national food & grocery delivery platform by mapping each support task to the most effective prompt engineering technique:
+— leveraging zero-shot for categorization, 
+- few-shot for generic inquiries,
+- chain-of-thought for refund decisions,
+- prompt chaining for multi-system order-status checks,
+- self-consistency for policy-aligned answers, and
+- rephrase-and-respond for empathetic complaint handling—to improve response accuracy, scalability, and customer satisfaction.
